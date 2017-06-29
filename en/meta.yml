@@ -1,12 +1,12 @@
-title: generic-unix-timestamp
+title: Unix timestamps
 hero_image: images/banner.png
-description: generic-unix-timestamp description
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
+description: Understanding Unix timestamps
+original_url: 
 theme: cc-prototype
 duration: 1 # 1, 2 or 3
 listed: false
-ingredient: false
-interests: "games, photography, physical computing"
-technologies: "electronics, physical computing, python, scratch"
+ingredient: true
+interests: ""
+technologies: ""
 steps:
-  - title: Step one
+  - title: Unix timestamps

@@ -1,13 +1,15 @@
-title: Unix टाइमस्टैंप्स
+---
+title: Unix timestamps
 hero_image: images/banner.png
-description: Unix टाइमस्टैंप्स को समझना
-original_url: 
+description: Understanding Unix timestamps
+original_url:
 theme: cc-prototype
-duration: 1 # 1, 2 or 3
+duration: 1
 listed: false
 ingredient: true
 copyedit: false
-interests: “"
-technologies: “"
+interests: ""
+technologies: ""
 steps:
-  - title: Unix टाइमस्टैंप्स
+  - 
+    title: Unix timestamps

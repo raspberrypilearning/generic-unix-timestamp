@@ -1,9 +1,5 @@
-تُعد طوابع Unix الزمنية طريقة مناسبة لتخزين التاريخ والوقت كرقم واحد. 
+Unix timestamps are a convenient way to store a date and time as a single number.
 
-يُعرَف طابع Unix الزمني بأنه عدد الثواني التي انقضت منذ 1 يناير 1970 بالتوقيت العالمي الموحَّد UTC (معيار توقيت عالمي). على سبيل المثال، تحليل الطابع الزمني `1498734934` هو 29 يونيو 2017 في تمام الساعة 11:15 صباحًا. 
+A Unix timestamp is the number of seconds since 1 January 1970 in UTC (an international standard for time). For example, `1498734934` is 29 June 2017 at 11:15am.
 
-يمكنك العثور على طابع Unix الزمني الحالي على [unixtimestamp.com](http://www.unixtimestamp.com/).
-
-
-
- 
+You can find the current Unix timestamp at [unixtimestamp.com](http://www.unixtimestamp.com/).

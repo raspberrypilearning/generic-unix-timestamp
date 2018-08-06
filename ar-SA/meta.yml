@@ -1,13 +1,15 @@
-title: طوابع Unix الزمنية
+---
+title: Unix timestamps
 hero_image: images/banner.png
-description: فهم طوابع Unix الزمنية
-original_url: 
+description: Understanding Unix timestamps
+original_url:
 theme: cc-prototype
-duration: 1 # 1, 2 or 3
+duration: 1
 listed: false
 ingredient: true
 copyedit: false
 interests: ""
 technologies: ""
 steps:
-  - title: طوابع Unix الزمنية
+  - 
+    title: Unix timestamps

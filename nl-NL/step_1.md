@@ -1,5 +1,5 @@
-Unix timestamps are a convenient way to store a date and time as a single number.
+Unix-timestamps (tijdstempels) zijn een handige manier om een ​​datum en tijd op te slaan als een enkel nummer.
 
-A Unix timestamp is the number of seconds since 1 January 1970 in UTC (an international standard for time). For example, `1498734934` is 29 June 2017 at 11:15am.
+Een Unix timestamp is het aantal seconden sinds 1 januari 1970 in UTC (een internationale standaard voor tijd). Bijvoorbeeld `1498734934` is 29 juni 2017 om 11:15 uur.
 
-You can find the current Unix timestamp at [unixtimestamp.com](http://www.unixtimestamp.com/).
+Je kunt het huidige Unix-tijdstempel vinden op [unixtimestamp.com](http://www.unixtimestamp.com/).

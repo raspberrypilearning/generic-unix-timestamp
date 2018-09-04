@@ -1,5 +1,5 @@
-Unix timestamps are a convenient way to store a date and time as a single number.
+Horários Unix são uma maneira conveniente de armazenar uma data e hora como um único número.
 
-A Unix timestamp is the number of seconds since 1 January 1970 in UTC (an international standard for time). For example, `1498734934` is 29 June 2017 at 11:15am.
+Um horário Unix é o número de segundos acumulados desde 1 de janeiro de 1970 em UTC (um padrão internacional para o tempo). Por exemplo, `1498734934` é o dia 29 de junho de 2017 às 11:15.
 
-You can find the current Unix timestamp at [unixtimestamp.com](http://www.unixtimestamp.com/).
+Podemos encontrar o horário Unix atual em [unixtimestamp.com](http://www.unixtimestamp.com/).

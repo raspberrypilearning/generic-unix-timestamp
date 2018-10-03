@@ -1,5 +1,5 @@
-Unix timestamps are a convenient way to store a date and time as a single number.
+تعد الطوابع الزمنية لليونكس (Unix timestamps) إحدى الطرق الملائمة من أجل تخزين التاريخ و الزمن على شكل رقم واحد.
 
-A Unix timestamp is the number of seconds since 1 January 1970 in UTC (an international standard for time). For example, `1498734934` is 29 June 2017 at 11:15am.
+إن الطابع الزمني لليونكس هو عدد الثواني منذ 1 يناير 1970 حسب نظام التوقيت العالمي UTC. على سبيل المثال, `1498734934` هو 29 يونيو 2017، الساعة 11:15 صباحا.
 
-You can find the current Unix timestamp at [unixtimestamp.com](http://www.unixtimestamp.com/).
+يمكنك العثور على الطابع الزمني الحالي لليونكس في [unixtimestamp.com](http://www.unixtimestamp.com/).

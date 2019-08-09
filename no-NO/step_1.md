@@ -1,5 +1,5 @@
-Unix timestamps are a convenient way to store a date and time as a single number.
+Unix tidsstempler er en praktisk måte å lagre en dato og klokkeslett som et enkelt nummer på.
 
-A Unix timestamp is the number of seconds since 1 January 1970 in UTC (an international standard for time). For example, `1498734934` is 29 June 2017 at 11:15am.
+Et Unix tidsstempel er antall sekunder siden 1. januar 1970 i UTC (en internasjonal standard for tid). For eksempel er `1498734934` 29. juni 2017 klokka 11:15.
 
-You can find the current Unix timestamp at [unixtimestamp.com](http://www.unixtimestamp.com/).
+Du kan finne dagens Unix tidsstempel på [unixtimestamp.com](http://www.unixtimestamp.com/).

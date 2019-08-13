@@ -1,9 +1,10 @@
+---
 title: طوابع Unix الزمنية
 hero_image: images/banner.png
 description: فهم طوابع Unix الزمنية
-original_url: 
+original_url:
 theme: cc-prototype
-duration: 1 # 1, 2 or 3
+duration: 1
 listed: false
 ingredient: true
 copyedit: false

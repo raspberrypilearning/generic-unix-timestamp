@@ -1,5 +1,5 @@
-Unix timestamps are a convenient way to store a date and time as a single number.
+Marcajele de timp Unix sunt o modalitate convenabilă de a stoca o dată și un timp ca un singur număr.
 
-A Unix timestamp is the number of seconds since 1 January 1970 in UTC (an international standard for time). For example, `1498734934` is 29 June 2017 at 11:15am.
+Un marcaj de timp Unix este numărul de secunde trecute de la 1 ianuarie 1970 în UTC (un standard internațional pentru timp). De exemplu, `1498734934` este 29 iunie 2017 la 11:15.
 
-You can find the current Unix timestamp at [unixtimestamp.com](http://www.unixtimestamp.com/).
+Poți găsi marcajul de timp Unix la momentul actual pe [unixtimestamp.com](http://www.unixtimestamp.com/).

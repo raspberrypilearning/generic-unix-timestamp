@@ -1,7 +1,7 @@
 ---
-title: Unix timestamps
+title: Unixowe znaczniki czasu
 hero_image: images/banner.png
-description: Understanding Unix timestamps
+description: Zrozumienie Unixowych znaczników czasu
 original_url:
 theme: cc-prototype
 duration: 1
@@ -12,4 +12,4 @@ interests: ""
 technologies: ""
 steps:
   - 
-    title: Unix timestamps
+    title: Unixowe znaczniki czasu

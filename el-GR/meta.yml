@@ -1,9 +1,9 @@
 ---
-title: Unix timestamps
+title: Χρονοσφραγίδες Unix
 hero_image: images/banner.png
-description: Understanding Unix timestamps
+description: Κατανόηση των χρονοσφραγίδων Unix
 original_url:
-theme: cc-prototype
+theme: cc-πρωτότυπο
 duration: 1
 listed: false
 ingredient: true
@@ -12,4 +12,4 @@ interests: ""
 technologies: ""
 steps:
   - 
-    title: Unix timestamps
+    title: Χρονοσφραγίδες Unix

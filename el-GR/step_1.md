@@ -1,5 +1,5 @@
-Unix timestamps are a convenient way to store a date and time as a single number.
+Οι χρονοσφραγίδες Unix είναι ένας βολικός τρόπος για να αποθηκεύσεις μια ημερομηνία και ώρα με τη μορφή ενός αριθμού.
 
-A Unix timestamp is the number of seconds since 1 January 1970 in UTC (an international standard for time). For example, `1498734934` is 29 June 2017 at 11:15am.
+Μια χρονοσφραγίδα Unix είναι ο αριθμός δευτερολέπτων από την 1η Ιανουαρίου 1970 στο UTC (το διεθνές πρότυπο για το χρόνο). Για παράδειγμα, το `1498734934` αντιστοιχεί στις 29 Ιουνίου 2017 και ώρα 11:15 π.μ.
 
-You can find the current Unix timestamp at [unixtimestamp.com](http://www.unixtimestamp.com/).
+Μπορείς να βρεις την τρέχουσα χρονοσφραγίδα Unix στο [unixtimestamp.com](http://www.unixtimestamp.com/).

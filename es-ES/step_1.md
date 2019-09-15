@@ -1,5 +1,5 @@
-Unix timestamps are a convenient way to store a date and time as a single number.
+Las marcas de tiempo de Unix son una manera conveniente de almacenar una fecha y una hora como un solo número.
 
-A Unix timestamp is the number of seconds since 1 January 1970 in UTC (an international standard for time). For example, `1498734934` is 29 June 2017 at 11:15am.
+Una marca de tiempo de Unix es la cantidad de segundos desde el 1 de enero de 1970 en UTC (un estándar internacional de tiempo). Por ejemplo, `1498734934` es el 29 de junio de 2017 a las 11:15 de la mañana (a. M.)
 
-You can find the current Unix timestamp at [unixtimestamp.com](http://www.unixtimestamp.com/).
+Puedes encontrar la marca de tiempo actual de Unix en [unixtimestamp.com](http://www.unixtimestamp.com/).

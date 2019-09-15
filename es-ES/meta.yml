@@ -1,7 +1,7 @@
 ---
-title: Unix timestamps
+title: Marcas de tiempo Unix
 hero_image: images/banner.png
-description: Understanding Unix timestamps
+description: Comprendiendo las marcas de tiempo de Unix
 original_url:
 theme: cc-prototype
 duration: 1
@@ -12,4 +12,4 @@ interests: ""
 technologies: ""
 steps:
   - 
-    title: Unix timestamps
+    title: Marcas de tiempo Unix

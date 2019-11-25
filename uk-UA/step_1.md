@@ -1,5 +1,5 @@
-Unix timestamps are a convenient way to store a date and time as a single number.
+Unix-час є зручним способом зберігати дату та час як єдине число.
 
-A Unix timestamp is the number of seconds since 1 January 1970 in UTC (an international standard for time). For example, `1498734934` is 29 June 2017 at 11:15am.
+Unix-час — це кількість секунд, що пройшла з 1 січня 1970 року за UTC (міжнародний стандарт часу). Наприклад, `1498734934` означає час 11:15, 29 червня 2017 року.
 
-You can find the current Unix timestamp at [unixtimestamp.com](http://www.unixtimestamp.com/).
+Ви можете дізнатися поточний Unix-час на [unixtimestamp.com](http://www.unixtimestamp.com/).

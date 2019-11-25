@@ -1,5 +1,5 @@
-Unix timestamps are a convenient way to store a date and time as a single number.
+Unix vremenske oznake zgodan su način za pohranu datuma i vremena u jednom broju.
 
-A Unix timestamp is the number of seconds since 1 January 1970 in UTC (an international standard for time). For example, `1498734934` is 29 June 2017 at 11:15am.
+Unix vremenska oznaka je broj sekundi od 1. siječnja 1970. godine prema UTC-u (međunarodnom standardnom vremenu). Na primjer, `1498734934` označava 29. lipnja 2017. godine u 11:15 sati.
 
-You can find the current Unix timestamp at [unixtimestamp.com](http://www.unixtimestamp.com/).
+Trenutnu Unix vremensku oznaku možeš pronaći na [unixtimestamp.com](http://www.unixtimestamp.com/).

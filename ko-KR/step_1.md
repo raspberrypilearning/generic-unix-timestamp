@@ -1,5 +1,5 @@
-Unix timestamps are a convenient way to store a date and time as a single number.
+유닉스 타임 스탬프는 날짜와 시간을 하나의 숫자로 저장하는 편리한 방법입니다.
 
-A Unix timestamp is the number of seconds since 1 January 1970 in UTC (an international standard for time). For example, `1498734934` is 29 June 2017 at 11:15am.
+UNIX 타임 스탬프는 1970 년 1 월 1 일부터 UTC (시간에 대한 국제 표준) 로 표시되는 초를 수로 표현한 것입니다. 예를 들어 `1498734934` 는 2017 년 6 월 29 일 오전 11:15 분 입니다.
 
-You can find the current Unix timestamp at [unixtimestamp.com](http://www.unixtimestamp.com/).
+현재의 유닉스 타임 스탬프는 [unixtimestamp.com](http://www.unixtimestamp.com/)에서 찾을 수 있습니다.

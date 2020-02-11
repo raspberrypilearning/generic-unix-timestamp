@@ -1,7 +1,7 @@
 ---
-title: Unix timestamps
-hero_image: images/banner.png
-description: Understanding Unix timestamps
+title: यूनिक्स टाइमस्टैंप
+hero_image: छवियां/बैनर.png
+description: यूनिक्स टाइमस्टैंप को समझना
 original_url:
 theme: cc-prototype
 duration: 1 #1, 2 or 3
@@ -12,4 +12,4 @@ interests: ""
 technologies: ""
 steps:
   - 
-    title: Unix timestamps
+    title: यूनिक्स टाइमस्टैंप

@@ -1,5 +1,5 @@
-Unix timestamps are a convenient way to store a date and time as a single number.
+यूनिक्स टाइमस्टैंप एक ही संख्या के रूप में एक तारीख और समय स्टोर करने का एक सुविधाजनक तरीका है।
 
-A Unix timestamp is the number of seconds since 1 January 1970 in UTC (an international standard for time). For example, `1498734934` is 29 June 2017 at 11:15am.
+यूटीसी (समय के लिए एक अंतरराष्ट्रीय मानक) में 1 जनवरी 1 9 70 के बाद से एक यूनिक्स टाइमस्टैंप सेकंड की संख्या है। उदाहरण के लिए, ` 1498734934 ` 29 जून 2017 को सुबह 11:15 बजे है।
 
-You can find the current Unix timestamp at [unixtimestamp.com](http://www.unixtimestamp.com/).
+आप वर्तमान यूनिक्स टाइमस्टैम्प को [ unixtimestamp.com](http://www.unixtimestamp.com/) पर पा सकते हैं।

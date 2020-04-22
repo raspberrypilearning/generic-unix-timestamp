@@ -1,5 +1,5 @@
-Unix timestamps are a convenient way to store a date and time as a single number.
+Unix时间戳是一种能方便的将日期和时间存储为单个数字的方法。
 
-A Unix timestamp is the number of seconds since 1 January 1970 in UTC (an international standard for time). For example, `1498734934` is 29 June 2017 at 11:15am.
+Unix时间戳是当前 UTC(时间的国际标准) 时间距离1970年1月1日所经过的秒数。 例如，`1498734934` 是 2017 年 6 月 29 日上午 11:15。
 
-You can find the current Unix timestamp at [unixtimestamp.com](http://www.unixtimestamp.com/).
+您可以在 [unixtimestamp.com](http://www.unixtimestamp.com/) 上获取到当前的 Unix 时间戳。

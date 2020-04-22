@@ -1,9 +1,10 @@
+---
 title: Unix 时间戳
 hero_image: images/banner.png
 description: 了解 Unix 时间戳
-original_url: 
+original_url:
 theme: cc-prototype
-duration: 1 # 1, 2 or 3
+duration: 1 #1, 2 or 3
 listed: false
 ingredient: true
 copyedit: false

@@ -1,7 +1,7 @@
 ---
-title: Unix timestamps
+title: Horodatage Unix
 hero_image: images/banner.png
-description: Understanding Unix timestamps
+description: Comprendre les horodatages Unix
 original_url:
 theme: cc-prototype
 duration: 1 #1, 2 or 3
@@ -12,4 +12,4 @@ interests: ""
 technologies: ""
 steps:
   - 
-    title: Unix timestamps
+    title: Horodatage Unix
